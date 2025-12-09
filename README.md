@@ -40,15 +40,25 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab Runner](https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Pinpoint](https://img.shields.io/badge/Pinpoint_APM-00C7B7?style=flat-square)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 ### AI/ML
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![Document Intelligence](https://img.shields.io/badge/Azure_Document_Intelligence-0089D6?style=flat-square)
+![Azure Document Intelligence](https://img.shields.io/badge/Azure_Document_Intelligence-0089D6?style=flat-square)
+![Azure Speech Service](https://img.shields.io/badge/Azure_Speech_Service-0089D6?style=flat-square)
 
 ---
 
@@ -57,8 +67,10 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 - 🤖 **AI/LLM Applications**: Building intelligent systems using Azure OpenAI, GPT-4, and LangChain
 - 📊 **Financial Systems**: Developing stock analysis and forecasting applications
 - 📄 **Document Intelligence**: OCR and document processing at scale using Azure Document Intelligence
+- 🔊 **Speech Processing**: Working with Azure Speech Service for STT/TTS applications
+- 🎯 **Embeddings & Vector Search**: Implementing semantic search and RAG systems
 - 🔍 **Compliance & Audit**: Automating internal compliance workflows
-- 🎯 **Recruitment AI**: AI-powered evaluation and screening system
+- 💼 **Recruitment AI**: AI-powered evaluation and screening system
 - 🧪 **Exploring**: Vibe coding tool, Cursor, Windsurf, Kiro, Antigravity
 
 ---
@@ -77,28 +89,28 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 
 ```plaintext
 🧠 AI/ML Development
-   ├─ LLM/GPT application development and optimization
+   ├─ LLM/GPT application development
    ├─ Azure OpenAI Service integration
    ├─ LangChain framework
-   └─ Prompt engineering and fine-tuning
+   ├─ Vector embeddings and semantic search
+   └─ Prompt engineering
 
 ☁️ Cloud Architecture
-   ├─ Azure Services (App Service, Functions, OpenAI, Document Intelligence)
+   ├─ Azure Services (App Service, Functions, OpenAI, Document Intelligence, Speech)
    ├─ AWS Infrastructure
    ├─ Microservices architecture
    └─ IaC (Infrastructure as Code)
 
 🔄 DevOps & Automation
-   ├─ CI/CD pipeline design
+   ├─ CI/CD (Jenkins, GitLab Runner, GitHub Actions)
    ├─ Docker & Kubernetes
-   ├─ Monitoring and logging
+   ├─ Monitoring (Prometheus, Grafana, Pinpoint APM)
    └─ Multi-environment deployment
 
 📊 Data & Databases
    ├─ PostgreSQL optimization
    ├─ Elasticsearch
-   ├─ Vector databases
-   └─ Graph databases (Neo4j)
+   └─ Vector databases for embeddings
 
 🏦 Domain Expertise
    ├─ Financial systems (stocks, options, bonds)
@@ -112,11 +124,12 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 ## 📈 Learning & Exploration
 
 - Advanced LLM features (batch processing, assistants API)
-- Graph databases and knowledge graphs
+- Vector databases and semantic search optimization
 - MLOps and model deployment strategies
 - Modern package management with `uv`
 - AI-powered coding tools (Cursor, Windsurf, Vibe)
 - Financial domain deep-dive (derivatives, options trading)
+- Model fine-tuning (Experience with BERT fine-tuning)
 
 ---
 
