@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Minyoung Kim (Dakji)
 
-**Developer & Solutions Architect** at Kyobo Life Insurance  
+**Software Developer at Kyobo Life Insurance  
 Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 
 🔭 Building AI-powered solutions in financial and insurance domains  
@@ -25,7 +25,6 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 
@@ -62,9 +61,6 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-oracle
-mysql / mariadb
-sybase
 
 ### AI/ML
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=openai&logoColor=white)
@@ -164,20 +160,12 @@ sybase
 
 ---
 
-## 📊 GitHub Stats
-
-![Sanae's GitHub stats](https://github-readme-stats.vercel.app/api?username=801sanae&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=801sanae&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 <div align="center">
 
 ### 💭 "열심히 공부하고 있는 주니어 개발자입니다"
 
 *Building intelligent systems that bridge AI capabilities with real-world business needs*
 
-![Visitor Count](https://profile-counter.glitch.me/801sanae/count.svg)
+
 
 </div>
