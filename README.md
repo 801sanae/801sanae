@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Minyoung Kim (Dakji)
 
-**Full-Stack Developer & Solutions Architect** at Kyobo Life Insurance  
+**Developer & Solutions Architect** at Kyobo Life Insurance  
 Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 
 🔭 Building AI-powered solutions in financial and insurance domains  
@@ -22,17 +22,29 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 ## 🛠️ Tech Stack
 
 ### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
+
+**Java/Spring Ecosystem**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+**Python**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Reac
+**Frontend**t](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -64,9 +76,9 @@ Specializing in AI/LLM Applications, Cloud Infrastructure, and Financial Systems
 
 ## 🚀 Current Focus
 
-- 🤖 **AI/LLM Applications**: Building intelligent systems using Azure OpenAI, GPT-4, and LangChain
+- 🤖 **AI/LLM Applications**: Building intelligent systems using Azure OpenAI, LangChain, LangGraph
 - 📊 **Financial Systems**: Developing stock analysis and forecasting applications
-- 📄 **Document Intelligence**: OCR and document processing at scale using Azure Document Intelligence
+- 📄 **Document Intelligence**: OCR and document processing at scale using Azure Document Intelligence, python-docx, python-pptx
 - 🔊 **Speech Processing**: Working with Azure Speech Service for STT/TTS applications
 - 🎯 **Embeddings & Vector Search**: Implementing semantic search and RAG systems
 - 🔍 **Compliance & Audit**: Automating internal compliance workflows
